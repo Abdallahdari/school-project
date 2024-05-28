@@ -35,6 +35,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    background-attachment:fixed;
 
   }
   .p-1,.p2{
